@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18773b6d-bf94-4fad-97b7-e20a5a0d4c71" name="Changes" comment="validation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18773b6d-bf94-4fad-97b7-e20a5a0d4c71" name="Changes" comment="push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,14 +182,74 @@
       <option name="project" value="LOCAL" />
       <updated>1722107541087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="validation">
+      <option name="closed" value="true" />
+      <created>1723545446527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723545446527</updated>
+    </task>
+    <task id="LOCAL-00009" summary="validation">
+      <option name="closed" value="true" />
+      <created>1723545568027</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723545568027</updated>
+    </task>
+    <task id="LOCAL-00010" summary="push">
+      <option name="closed" value="true" />
+      <created>1723546620643</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723546620643</updated>
+    </task>
+    <task id="LOCAL-00011" summary="push">
+      <option name="closed" value="true" />
+      <created>1723546754857</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723546754857</updated>
+    </task>
+    <task id="LOCAL-00012" summary="push">
+      <option name="closed" value="true" />
+      <created>1723546870688</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723546870688</updated>
+    </task>
+    <task id="LOCAL-00013" summary="push">
+      <option name="closed" value="true" />
+      <created>1723546935650</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723546935650</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="puch" />
     <MESSAGE value="lockboxs" />
     <MESSAGE value="minimum operations" />
     <MESSAGE value="validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="validation" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
